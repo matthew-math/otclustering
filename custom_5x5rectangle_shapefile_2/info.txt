@@ -1,0 +1,2 @@
+# The original costfile was 25x2, which causes CPLEX to error out
+# replacing with a 25x25 costfile matrix works
