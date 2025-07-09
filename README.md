@@ -15,3 +15,4 @@ However, upon deeper investigation-including:
   experiments in 1-D, where we observed similar discontinuities in much simpler settings,
 
 it became evident that these anomalies were not numerical errors, but rather fundamental consequences of using a discrete L1 cost function on the graph. Through further analysis, we formally characterized the conditions under which such sprinkling effects emerge using the original Python tools provided in this repository.
+
